@@ -1,0 +1,10 @@
+// Ara:
+	PLAYER_PER_ACCOUNT						= 5,
+	ACCOUNT_STATUS_MAX_LEN					= 8,
+	CHARACTER_NAME_MAX_LEN					= 48,
+
+// Altina ekle:
+#ifdef ENABLE_COUNTRY_FLAG
+	COUNTRY_FLAG_MAX_LEN					= 2,
+#endif
+
